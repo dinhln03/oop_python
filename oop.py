@@ -60,6 +60,6 @@ class Phone(Item):
         self.broken_phone = broken_phone
 
 
-phone1= Phone("jscphonev10",500,5,1)
-phone2= Phone("jscphonev10",700,500,1)
+phone1= Phone("jscphonev10",500,5)
+phone2= Phone("jscphonev10",700,500)
 print(phone1.all)
